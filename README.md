@@ -4,7 +4,7 @@ dmd-play is a client that connect on the server to load images (png and animatd 
 
 dmd-play communicates via a tcp connexion.
 
-dmd-play is to use with dmdserver from https://github.com/vpinball/libdmdutil 
+dmd-play is to use with dmdserver from https://github.com/vpinball/libdmdutil (A cross platform library for performing DMD tasks.)
 
 
 # play an image from the client
